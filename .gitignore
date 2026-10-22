@@ -222,3 +222,5 @@ __marimo__/
 data/raw/
 .venv/
 .ipynb_checkpoints/
+
+/data/processed/
